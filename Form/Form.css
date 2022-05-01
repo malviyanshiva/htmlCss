@@ -1,13 +1,10 @@
+body{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 10%;
+}
 .head_name{
     margin-left: 34%;
-}
-
-h2{
-    text-align: center;
-}
-
-.note{
-    margin-left: 15%;
 }
 
 #note{
@@ -23,6 +20,7 @@ tr{
     width: 60%;
     border: 1px solid black;
     border-collapse: collapse;
+    margin-top: -5px;
 }
 
 .last {
@@ -60,13 +58,4 @@ table.personal{
     background: rgb(202, 116, 3);
 
 
-}
-
-.custo_name {
-    margin-left: 40%;
-    margin-top: -15%;
-}
-
-.wao{
-    margin-left: 110%;
 }
